@@ -1,4 +1,4 @@
-module redblacktree/mod
+module github.com/sepehr-mnp/updatedRedBlackTree/redblacktree/mod
 
 go 1.19
 
